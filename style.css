@@ -139,21 +139,8 @@ p {
     background-size: auto;
     color: aliceblue;
   }
-.video1 video,
-.video2 video,
-.video3 video,
-.video4 video {
-  display: flex;
-  flex-direction: row;
-  align-items: center;
-  justify-content: center;
-  border-radius: 15px;
-  padding: 10px;
-  width: 90%;
-  height: 450px;
-  margin: 50px;
-  background-color: rgb(0, 0, 0);
-  object-fit: cover;
+iframe{
+  border-radius: 18px;
 }
 .video5 video,
 .video6 video,
